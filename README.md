@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @12ias
+- 👋 Hi, I’m Andarias / @12ias
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me andariasito@gmail.com
